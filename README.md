@@ -1,5 +1,5 @@
-<h1 align="center"> Daniel Paternina
-    Yoimer Ayazo
+<h1 align="center"> Daniel Paternina -
+    Yoimer Ayazo -
     David Mendez
 </h1>
 
